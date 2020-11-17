@@ -1,1 +1,2 @@
-# AKS-Istio-ServiceMesh
+# kubernetesMicroserviceApp
+Microservice architecture based kubernetes application
